@@ -1,2 +1,1 @@
-# my-first-Git-hub-project
-first project on Git Hub
+My first Git Hub project!
